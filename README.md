@@ -25,6 +25,9 @@ The purpose of this analysis is to use the knowledge of machine learning and neu
  
  * I tried to improve the model's performance by changing the activation type, adding hidden layers,  increasing neurons in each layer, and increasing the number of epochs.
 
+<img width="917" alt="Screen Shot 2022-07-10 at 1 55 17 PM" src="https://user-images.githubusercontent.com/100738688/178156447-efcc436e-7379-40df-9a5d-ca02bedb75d6.png">
+
+
 # Summary:
 
 The initial neural network had an accuracy of 72%. As I added more hidden layers, changed activation, and increased neurons, model accuracy dropped to 63%. This loss in accuracy may be because of model overfitting.
