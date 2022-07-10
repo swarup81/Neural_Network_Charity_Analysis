@@ -23,7 +23,7 @@ The purpose of this analysis is to use the knowledge of machine learning and neu
 
  * I was not able to achieve the target model performance.
  
- * I tried to improve the model's performance by changing the activation type, adding hidden layers,  increasing neurons in each layer, and increasing the number of epochs.
+ * I tried to improve the model's performance by changing the activation type, adding hidden layers,  adding more neurons in each layer, and increasing the number of epochs.
 
 <img width="917" alt="Screen Shot 2022-07-10 at 1 55 17 PM" src="https://user-images.githubusercontent.com/100738688/178156447-efcc436e-7379-40df-9a5d-ca02bedb75d6.png">
 
